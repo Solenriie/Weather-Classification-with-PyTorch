@@ -1,6 +1,7 @@
 # Object file
 *.o
 
+.ipynb_checkpoints
 dataset/
 custom_images/
 BestCustomCNNModel.pt
