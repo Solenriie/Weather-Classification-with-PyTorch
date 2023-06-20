@@ -6,3 +6,4 @@ dataset/
 custom_images/
 BestCustomCNNModel.pt
 BestAlexNetmodel.pt
+BestVGG19.pt
