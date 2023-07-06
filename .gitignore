@@ -9,3 +9,5 @@ BestMobileNet.pt
 BestShuffleNet.pt
 BestAlexNet.pt
 BestCNNmodel.pt
+ShuffleNetAdamW.pt
+ShuffleNetLion.pt
