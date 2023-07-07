@@ -11,3 +11,4 @@ BestAlexNet.pt
 BestCNNmodel.pt
 ShuffleNetAdamW.pt
 ShuffleNetLion.pt
+ShuffleNetSGD.pt
