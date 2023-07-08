@@ -4,11 +4,6 @@
 .ipynb_checkpoints
 dataset/
 custom_images/
-BestVGG19.pt
-BestMobileNet.pt
-BestShuffleNet.pt
-BestAlexNet.pt
-BestCNNmodel.pt
 ShuffleNetAdamW.pt
 ShuffleNetLion.pt
 ShuffleNetSGD.pt
